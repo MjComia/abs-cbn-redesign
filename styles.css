@@ -1,7 +1,21 @@
+
 .logo{
     height: auto;
     width: 4vh;
 }
 .logo-color{
     background-color: #363636;
+}
+.scrollable {
+    height: 88vh; /* Adjust the height as needed */
+    overflow-y: auto;
+    position: sticky;
+    top: 0;
+}
+.navbar {
+    height: 8vh; /* Adjust the height as needed */
+    z-index: 1000;
+}
+.title-name{
+    height: 4vh
 }
