@@ -7,7 +7,7 @@
     background-color: #363636;
 }
 .scrollable {
-    height: 88vh; /* Adjust the height as needed */
+    height: 92vh; /* Adjust the height as needed */
     overflow-y: auto;
     position: sticky;
     top: 0;
