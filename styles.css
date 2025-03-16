@@ -19,3 +19,16 @@
 .title-name{
     height: 4vh
 }
+
+/* hover effects */
+
+.nav-link{
+    color:white;
+    transition: color 0.5s;
+}
+.nav-link:hover{
+    color: rgb(173, 173, 173);
+}
+.text-active{
+    color: rgb(204, 204, 204);
+}
