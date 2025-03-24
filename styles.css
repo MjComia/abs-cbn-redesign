@@ -7,14 +7,14 @@
     background-color: #363636;
 }
 .scrollable {
-    height: 92vh; /* Adjust the height as needed */
+    height: 90.9vh; /* Adjust the height as needed */
     overflow-y: auto;
     position: sticky;
     top: 0;
 }
 .navbar {
-    height: 8vh; /* Adjust the height as needed */
-    z-index: 1000;
+  
+    z-index: 1500;
 }
 .title-name{
     height: 4vh
@@ -33,5 +33,4 @@
     color: rgb(204, 204, 204);
 }
 
-/* custom sizes of pictures */
 
